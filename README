@@ -1,0 +1,2 @@
+Extra Credit #6:
+The file output was opened in write mode.  Closing it could prevent lost data.
